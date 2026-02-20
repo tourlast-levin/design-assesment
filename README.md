@@ -34,7 +34,7 @@ Please submit the following for your selected items:
 
 1. **Final Mockup** – a realistic, presentation-ready view (how it would look in the real world)
 2. **Print-Ready Export** – correct dimensions, bleed included if needed, high-resolution files suitable for production
-3. **Editable Source File** – Figma, Illustrator, or PSD
+3. **Editable Source File** – Figma, Illustrator, or any preferred tool of your choice
 4. **Short Explanation** (1 page max) – describing:
 
    * Your design concept and reasoning
