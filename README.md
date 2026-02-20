@@ -50,7 +50,8 @@ We want to see **you think like a Tourlast designer**. That means:
 * **Scalable thinking** – could this design translate to other items or formats?
 * **Professional presentation** – clarity, polish, and attention to detail
 * **Creativity & originality** – fresh ideas that feel human, not generic
-* **Attention to detail** – keenness on what you deliver
+* **Attention to detail** – keenness on what you deliver; every element matters, from spacing and alignment to typography and color usage.
+  
 
 Remember, this is your chance to show **how you bring a brand to life in the real world**, not just on a screen.
 
@@ -63,7 +64,6 @@ Think about our users: travelers who are **curious, excited, and seeking ease**.
 * For a business card, imagine it’s leaving a lasting impression with partners and clients.
 
 We want **every element to tell our story**: Tourlast is about exploration, simplicity, and trust, make it **feel alive** in your design.
-
 
 ## **Judging Criteria**
 
@@ -87,3 +87,16 @@ To help you, we’ve provided all Tourlast brand assets (logos, icons, and image
 **Secondary Color:** #a0d3fe (light sky blue)
 
 Feel free to use complementary neutrals, but make sure these core colors and font are the foundation of your design. Keep the Tourlast brand voice and identity consistent across your designs.
+
+## **Presentation & Deadline**
+
+You should complete your design in **40 minutes to 1 hour**.
+
+At the end of this time, you are **expected to present your work**. During your presentation, please:
+
+* **Explain your design decisions in detail** – why you chose the layout, colors, typography, and any creative elements.
+* **Show how your design aligns with the Tourlast brand** – demonstrate brand consistency and how it could scale across other materials.
+* **Highlight practical considerations** – print readiness, usability, and any merch mockups.
+* **Share your thought process** – what challenges you faced, alternatives you considered, and why you chose the final approach.
+
+Have fun with it! This is your chance to experiment, explore, and bring the Tourlast brand to life. Let your creativity shine.
