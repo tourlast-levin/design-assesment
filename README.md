@@ -33,7 +33,7 @@ We’re evaluating **not just how pretty it looks**, but how your design communi
 Please submit the following for your selected items:
 
 1. **Final Mockup** – a realistic, presentation-ready view (how it would look in the real world)
-2. **Print-Ready Export** – correct dimensions, bleed included if needed, high-resolution files suitable for production
+2. **Print-Ready Export** – correct dimensions, bleed included if needed, high-resolution files suitable for production, if you can
 3. **Editable Source File** – Figma, Illustrator, or any preferred tool of your choice
 4. **Short Explanation** (1 page max) – describing:
 
@@ -50,6 +50,7 @@ We want to see **you think like a Tourlast designer**. That means:
 * **Scalable thinking** – could this design translate to other items or formats?
 * **Professional presentation** – clarity, polish, and attention to detail
 * **Creativity & originality** – fresh ideas that feel human, not generic
+* **Attention to detail** – keenness on what you deliver
 
 Remember, this is your chance to show **how you bring a brand to life in the real world**, not just on a screen.
 
@@ -63,14 +64,26 @@ Think about our users: travelers who are **curious, excited, and seeking ease**.
 
 We want **every element to tell our story**: Tourlast is about exploration, simplicity, and trust, make it **feel alive** in your design.
 
+
 ## **Judging Criteria**
 
-| Criteria                   | Weight |
-| -------------------------- | ------ |
-| Brand Fit                  | High   |
-| Creativity                 | High   |
-| Technical Execution        | High   |
-| Practicality & Scalability | High   |
-| Presentation & Detail      | Medium |
-
+* Brand Fit
+* Creativity
+* Technical Execution
+* Practicality & Scalability
+* Presentation & Detail
+  
 We are not looking for perfection in every pixel, but **thoughtfulness, clarity, and alignment with our brand voice**.
+
+## Brand Assets & Guidelines
+
+To help you, we’ve provided all Tourlast brand assets (logos, icons, and imagery). You can download them using this link [Tourlast-24 6.zip](https://github.com/user-attachments/files/25436815/Tourlast-24.6.zip)
+
+
+**Brand Font:** Ubuntu – this is the official brand font and can be used where appropriate, but you don’t need to use it for every piece of text in your designs.
+
+**Primary Color:** #0b5394 (deep blue)
+
+**Secondary Color:** #a0d3fe (light sky blue)
+
+Feel free to use complementary neutrals, but make sure these core colors and font are the foundation of your design. Keep the Tourlast brand voice and identity consistent across your designs.
