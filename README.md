@@ -77,7 +77,7 @@ We are not looking for perfection in every pixel, but **thoughtfulness, clarity,
 
 ## Brand Assets & Guidelines
 
-To help you, we’ve provided all Tourlast brand assets (logos, icons, and imagery). You can download them using this link [Tourlast-24 6.zip](https://github.com/user-attachments/files/25436815/Tourlast-24.6.zip)
+To help you, we’ve provided all Tourlast brand assets (logos, icons, and imagery).
 
 
 **Brand Font:** Ubuntu – this is the official brand font and can be used where appropriate, but you don’t need to use it for every piece of text in your designs.
