@@ -39,7 +39,7 @@ Please submit the following for your selected items:
 
    * Your design concept and reasoning
    * How your design fits the Tourlast brand
-   * How it could scale to other brand items (e.g., a flier → t-shirt → backdrop)
+   * How it could scale to other brand items (e.g., a flier → t-shirt → backdrop) if applicable
 
 ## **What We’re Looking For**
 
